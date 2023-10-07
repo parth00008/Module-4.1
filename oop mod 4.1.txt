@@ -1,0 +1,36 @@
+1) what is OOP? List OOP concepts.
+
+ans:-oops stand for object oriented programming system.
+     -its communicated a realistic world.
+
+-list oop concept
+
+1)inheritance   
+2)encapsulation
+3)abstraction
+4)class
+5)object
+6)polymorphisam
+
+2) what is the difference between OOP and POP?
+
+ans: -1)pop
+-procedure oriened programming
+-top down approach
+-inheritance is not allowed.
+-it dosen't use access specifier.
+-no data hiding.
+-no virtual function.
+-parts of program are linked through parameter passing.
+-expanding new data and functions is not easy.
+-no code reusability.
+-pascal,fortan,basic
+
+2)oop
+-program is divided into object
+-bottom up approach
+-inheritance property is used
+-it uses access specifier.
+-encapsulation is used to hide the data
+-concept of virtual function
+-object function are linked through message function.
